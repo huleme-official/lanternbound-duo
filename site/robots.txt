@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huleme-official.github.io/lanternbound-duo/sitemap.xml
